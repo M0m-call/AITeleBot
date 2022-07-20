@@ -1,0 +1,4 @@
+prompt,reply
+$does this life has any meaning?$,$||There is no one answer to this question. It depends on each individual's beliefs and values.$
+$does this life has any meaning?$,$||The meaning of life is a personal question that each individual must discover for themselves. There is no one answer that is correct for everyone.$
+$why is life so precious?$,$||There are a number of reasons why life is so precious. One reason is that life is a gift from God. Another reason is that life is the only thing we have that is truly our own. We are responsible for our own life and we have the power to choose how we live it. Lastly, life is precious because it is finite. We only have a limited amount of time on this earth and we need to make the most of it.$
